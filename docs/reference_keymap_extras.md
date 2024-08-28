@@ -86,6 +86,7 @@ There are also a few which are not quite language-specific, but useful if you ar
 |Layout             |Keycodes Header             |Sendstring LUT Header           |
 |-------------------|----------------------------|--------------------------------|
 |Colemak            |`keymap_colemak.h`          |`sendstring_colemak.h`          |
+|Ergo-L             |`keymap_ergol.h`            |`sendstring_ergol.h`            |
 |Dvorak             |`keymap_dvorak.h`           |`sendstring_dvorak.h`           |
 |Dvorak (French)    |`keymap_dvorak_fr.h`        |`sendstring_dvorak_fr.h`        |
 |Dvorak (Programmer)|`keymap_dvorak_programmer.h`|`sendstring_dvorak_programmer.h`|

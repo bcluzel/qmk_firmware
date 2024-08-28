@@ -64,16 +64,16 @@ The current list of available languages is:
 | belgian | bepo | br_abnt2 | canadian_multilingual |
 |:-------:|:----:|:--------:|:---------------------:|
 | **colemak** | **croatian** | **czech** | **danish** |
-| **dvorak_fr** | **dvorak** | **dvp** | **estonian** |
-| **finnish** | **fr_ch** | **french_afnor** | **french** |
-| **french_osx** | **german_ch** | **german** | **german_osx** |
-| **hungarian** | **icelandic** | **italian** | **italian_osx_ansi** |
-| **italian_osx_iso** | **jis** | **latvian** | **lithuanian_azerty** |
-| **lithuanian_qwerty** | **norman** | **norwegian** | **portuguese** |
-| **portuguese_osx_iso** | **romanian** | **serbian_latin** | **slovak** |
-| **slovenian** | **spanish_dvorak** | **spanish_latin_america** | **spanish** |
-| **swedish** | **turkish_f** | **turkish_q** | **uk** |
-| **us_international** | **workman** | **workman_zxcvm** |
+| **dvorak_fr** | **dvorak** | **dvp** | **ergol** |
+| **estonian** | **finnish** | **fr_ch** | **french_afnor** | 
+| **french** | **french_osx** | **german_ch** | **german** |
+| **german_osx** |**hungarian** | **icelandic** | **italian** |
+| **italian_osx_ansi** |**italian_osx_iso** | **jis** | **latvian** |
+| **lithuanian_azerty** |**lithuanian_qwerty** | **norman** | **norwegian** |
+| **portuguese** | **portuguese_osx_iso** | **romanian** | **serbian_latin** |
+| **slovak** | **slovenian** | **spanish_dvorak** | **spanish_latin_america** |
+| **spanish** | **swedish** | **turkish_f** | **turkish_q** |
+| **uk** | **us_international** | **workman** | **workman_zxcvm** |
 
 ### Macro Basics
 
