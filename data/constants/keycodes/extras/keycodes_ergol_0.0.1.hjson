@@ -4,7 +4,7 @@
  * ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
  * │ ` │ 1 │ 2 │ 3 │ 4 │ 5 │ 6 │ 7 │ 8 │ 9 │ 0 │ / │ = │       │
  * ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
- * │     │ Q │ C │ O │ P │ W │ J │ M │ D │ ! │ Y │ [ │ ] │     │
+ * │     │ Q │ C │ O │ P │ W │ J │ M │ D │***│ Y │ [ │ ] │     │
  * ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┐    │
  * │      │ A │ S │ E │ N │ F │ L │ R │ T │ I │ U │ ' │ \ │    │
  * ├────┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴───┴────┤
@@ -66,116 +66,116 @@
             "label": "=",
         }
         "KC_Q": {
-            "key": "EL_A",
-            "label": "A",
+            "key": "EL_Q",
+            "label": "Q",
         }
         "KC_W": {
-            "key": "EL_Z",
-            "label": "Z",
+            "key": "EL_C",
+            "label": "C",
         }
         "KC_E": {
-            "key": "EL_E",
-            "label": "E",
-        }
-        "KC_R": {
-            "key": "EL_R",
-            "label": "R",
-        }
-        "KC_T": {
-            "key": "EL_T",
-            "label": "T",
-        }
-        "KC_Y": {
-            "key": "EL_Y",
-            "label": "Y",
-        }
-        "KC_U": {
-            "key": "EL_U",
-            "label": "U",
-        }
-        "KC_I": {
-            "key": "EL_I",
-            "label": "I",
-        }
-        "KC_O": {
             "key": "EL_O",
             "label": "O",
         }
-        "KC_P": {
+        "KC_R": {
             "key": "EL_P",
             "label": "P",
         }
+        "KC_T": {
+            "key": "EL_W",
+            "label": "W",
+        }
+        "KC_Y": {
+            "key": "EL_J",
+            "label": "J",
+        }
+        "KC_U": {
+            "key": "EL_M",
+            "label": "M",
+        }
+        "KC_I": {
+            "key": "EL_D",
+            "label": "D",
+        }
+        "KC_O": {
+            "key": "EL_DEAD",
+            "label": "*** (dead)",
+        }
+        "KC_P": {
+            "key": "EL_Y",
+            "label": "Y",
+        }
         "KC_LBRC": {
-            "key": "EL_CIRC",
-            "label": "^ (dead)",
+            "key": "EL_LBRC",
+            "label": "[",
         }
         "KC_RBRC": {
-            "key": "EL_DLR",
-            "label": "$",
+            "key": "EL_RBRC",
+            "label": "]",
         }
         "KC_A": {
-            "key": "EL_Q",
-            "label": "Q",
+            "key": "EL_A",
+            "label": "A",
         }
         "KC_S": {
             "key": "EL_S",
             "label": "S",
         }
         "KC_D": {
-            "key": "EL_D",
-            "label": "D",
+            "key": "EL_E",
+            "label": "E",
         }
         "KC_F": {
+            "key": "EL_N",
+            "label": "N",
+        }
+        "KC_G": {
             "key": "EL_F",
             "label": "F",
         }
-        "KC_G": {
-            "key": "EL_G",
-            "label": "G",
-        }
         "KC_H": {
-            "key": "EL_H",
-            "label": "H",
-        }
-        "KC_J": {
-            "key": "EL_J",
-            "label": "J",
-        }
-        "KC_K": {
-            "key": "EL_K",
-            "label": "K",
-        }
-        "KC_L": {
             "key": "EL_L",
             "label": "L",
         }
+        "KC_J": {
+            "key": "EL_R",
+            "label": "R",
+        }
+        "KC_K": {
+            "key": "EL_T",
+            "label": "T",
+        }
+        "KC_L": {
+            "key": "EL_I",
+            "label": "I",
+        }
         "KC_SCLN": {
-            "key": "EL_M",
-            "label": "M",
+            "key": "EL_U",
+            "label": "U",
         }
         "KC_QUOT": {
-            "key": "EL_UGRV",
-            "label": "ù",
+            "key": "EL_QUOT",
+            "label": "'",
         }
         "KC_NUHS": {
-            "key": "EL_ASTR",
-            "label": "*",
+            "key": "EL_BSLS",
+            "label": "\",
         }
         "KC_NUBS": {
             "key": "EL_LABK",
             "label": "<",
         }
         "KC_Z": {
-            "key": "EL_W",
-            "label": "W",
+            "key": "EL_Z",
+            "label": "Z",
         }
         "KC_X": {
             "key": "EL_X",
             "label": "X",
         }
         "KC_C": {
-            "key": "EL_C",
-            "label": "C",
+            "key": "EL_MINS",
+            "label": "-",
         }
         "KC_V": {
             "key": "EL_V",
@@ -186,24 +186,24 @@
             "label": "B",
         }
         "KC_N": {
-            "key": "EL_N",
-            "label": "N",
+            "key": "EL_DOT",
+            "label": ".",
         }
         "KC_M": {
+            "key": "EL_H",
+            "label": "H",
+        }
+        "KC_COMM": {
+            "key": "EL_G",
+            "label": "G",
+        }
+        "KC_DOT": {
             "key": "EL_COMM",
             "label": ",",
         }
-        "KC_COMM": {
-            "key": "EL_SCLN",
-            "label": ";",
-        }
-        "KC_DOT": {
-            "key": "EL_COLN",
-            "label": ":",
-        }
         "KC_SLSH": {
-            "key": "EL_EXLM",
-            "label": "!",
+            "key": "EL_K",
+            "label": "K",
         }
 /* Shifted symbols
  * ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
