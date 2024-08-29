@@ -234,7 +234,7 @@
             "key": "EL_RDAQ",
             "label": "»",
         }
-        "S(EL_3)": {
+        "S(EL_4)": {
             "key": "EL_DLR",
             "label": "$",
         }
@@ -310,3 +310,5 @@
             "key": "BP_NBSP",
             "label": "(non-breaking space)",
         }
+    }
+}
