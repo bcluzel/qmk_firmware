@@ -159,7 +159,7 @@
         }
         "KC_NUHS": {
             "key": "EL_BSLS",
-            "label": "\",
+            "label": "\\",
         }
         "KC_NUBS": {
             "key": "EL_LABK",
@@ -227,80 +227,84 @@
             "label": "€",
         }
         "S(EL_2)": {
-            "key": "EL_3",
+            "key": "EL_LDAQ",
             "label": "«",
         }
         "S(EL_3)": {
-            "key": "EL_4",
+            "key": "EL_RDAQ",
             "label": "»",
         }
         "S(EL_3)": {
-            "key": "EL_5",
+            "key": "EL_DLR",
             "label": "$",
         }
         "S(EL_5)": {
-            "key": "EL_6",
-            "label": "%",
-        }
-        "S(EL_6)": {
-            "key": "EL_7",
-            "label": "^",
-        }
-        "S(EL_7)": {
-            "key": "EL_8",
-            "label": "&",
-        }
-        "S(EL_8)": {
-            "key": "EL_9",
-            "label": "*",
-        }
-        "S(EL_9)": {
-            "key": "EL_0",
-            "label": "#",
-        }
-        "S(EL_0)": {
-            "key": "EL_DEG",
-            "label": "@",
-        }
-        "S(EL_SLHS)": {
-            "key": "EL_PLUS",
-            "label": "_",
-        }
-        "S(EL_EQL)": {
-            "key": "EL_DIAE",
-            "label": "+",
-        }
-        "S(EL_DLR)": {
-            "key": "EL_PND",
-            "label": "£",
-        }
-        "S(EL_UGRV)": {
             "key": "EL_PERC",
             "label": "%",
         }
-        "S(EL_ASTR)": {
-            "key": "EL_MICR",
-            "label": "µ",
+        "S(EL_6)": {
+            "key": "EL_CIRC",
+            "label": "^",
+        }
+        "S(EL_7)": {
+            "key": "EL_AMPR",
+            "label": "&",
+        }
+        "S(EL_8)": {
+            "key": "EL_ASTR",
+            "label": "*",
+        }
+        "S(EL_9)": {
+            "key": "EL_HASH",
+            "label": "#",
+        }
+        "S(EL_0)": {
+            "key": "EL_AT",
+            "label": "@",
+        }
+        "S(EL_SLHS)": {
+            "key": "EL_UNDS",
+            "label": "_",
+        }
+        "S(EL_EQL)": {
+            "key": "EL_PLUS",
+            "label": "+",
+        }
+        "S(EL_DEAD)": {
+            "key": "EL_EXLM",
+            "label": "!",
+        }
+        "S(EL_LBRC)": {
+            "key": "EL_LCBR",
+            "label": "{",
+        }
+        "S(EL_RBRC)": {
+            "key": "EL_RCBR",
+            "label": "}",
+        }
+        "S(EL_QUOT)": {
+            "key": "EL_DQUO",
+            "label": "\"",
+        }
+        "S(EL_BSLS)": {
+            "key": "EL_PIPE",
+            "label": "|",
         }
         "S(EL_LABK)": {
             "key": "EL_RABK",
             "label": ">",
         }
-        "S(EL_COMM)": {
+        "S(EL_MINS)": {
             "key": "EL_QUES",
             "label": "?",
         }
-        "S(EL_SCLN)": {
-            "key": "EL_DOT",
-            "label": ".",
+        "S(EL_DOT)": {
+            "key": "EL_COLN",
+            "label": ":",
         }
-        "S(EL_COLN)": {
-            "key": "EL_SLSH",
-            "label": "/",
-        }
-        "S(EL_EXLM)": {
-            "key": "EL_SECT",
-            "label": "§",
+        "S(EL_COMM)": {
+            "key": "EL_SCLN",
+            "label": ";",
         }
         "S(KC_SPC)": {
             "key": "BP_NBSP",
