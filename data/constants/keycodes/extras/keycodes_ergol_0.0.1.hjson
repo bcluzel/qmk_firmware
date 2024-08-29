@@ -310,3 +310,138 @@
             "key": "BP_NBSP",
             "label": "(non-breaking space)",
         }
+/* AltGr symbols
+ * ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
+ * │   │   │   │   │   │   │   │   │   │   │   │   │   │       │
+ * ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤
+ * │     │ ^ │ < │ > │ $ │ % │ @ │ & │ * │ ' │ ` │   │   │     │
+ * ├─────┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┬──┴┐    │
+ * │      │ { │ ( │ ) │ } │ = │ \ │ + │ - │ / │ " │   │   │    │
+ * ├────┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴───┴────┤
+ * │    │   │ ~ │ [ │ ] │ _ │ # │ | │ ; │ : │ ? │   │          │
+ * ├────┼───┴┬──┴─┬─┴───┴───┴───┴───┴───┴──┬┴───┼───┴┬────┬────┤
+ * │    │    │    │                        │    │    │    │    │
+ * └────┴────┴────┴────────────────────────┴────┴────┴────┴────┘
+ */
+        "ALGR(EL_Q)": {
+            "key": "EL_TILD",
+            "label": "^",
+        }
+        "ALGR(EL_C)": {
+            "key": "EL_HASH",
+            "label": "<",
+        }
+        "ALGR(EL_O)": {
+            "key": "EL_LCBR",
+            "label": ">",
+        }
+        "ALGR(EL_P)": {
+            "key": "EL_LBRC",
+            "label": "$",
+        }
+        "ALGR(EL_W)": {
+            "key": "EL_PIPE",
+            "label": "%",
+        }
+        "ALGR(EL_J)": {
+            "key": "EL_GRV",
+            "label": "@",
+        }
+        "ALGR(EL_M)": {
+            "key": "EL_BSLS",
+            "label": "&",
+        }
+        "ALGR(EL_D)": {
+            "key": "EL_AT",
+            "label": "*",
+        }
+        "ALGR(EL_EXLM)": {
+            "key": "EL_RBRC",
+            "label": "'",
+        }
+        "ALGR(EL_EQL)": {
+            "key": "EL_RCBR",
+            "label": "`",
+        }
+        "ALGR(KC_E)": {
+            "key": "EL_EURO",
+            "label": "{",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "(",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": ")",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "}",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "=",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "\\",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "+",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "-",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "/",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "\"",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "~",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "[",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "]",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "_",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "#",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "|",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "!",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": ";",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": ":",
+        }
+        "ALGR(EL_DLR)": {
+            "key": "EL_CURR",
+            "label": "?",
+        }
+    }
+}
