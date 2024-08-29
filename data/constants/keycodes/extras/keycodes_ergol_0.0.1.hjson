@@ -58,7 +58,7 @@
             "label": "0",
         }
         "KC_MINS": {
-            "key": "EL_",
+            "key": "EL_SLHS",
             "label": "/",
         }
         "KC_EQL": {
@@ -218,57 +218,57 @@
  * │    │    │    │                        │    │    │    │    │
  * └────┴────┴────┴────────────────────────┴────┴────┴────┴────┘
  */
-        "S(EL_AMPR)": {
-            "key": "EL_1",
-            "label": "1",
+        "S(EL_GRV)": {
+            "key": "EL_TILD",
+            "label": "~",
         }
-        "S(EL_EACU)": {
-            "key": "EL_2",
-            "label": "2",
+        "S(EL_1)": {
+            "key": "EL_EURO",
+            "label": "€",
         }
-        "S(EL_DQUO)": {
+        "S(EL_2)": {
             "key": "EL_3",
-            "label": "3",
+            "label": "«",
         }
-        "S(EL_QUOT)": {
+        "S(EL_3)": {
             "key": "EL_4",
-            "label": "4",
+            "label": "»",
         }
-        "S(EL_LPRN)": {
+        "S(EL_3)": {
             "key": "EL_5",
-            "label": "5",
+            "label": "$",
         }
-        "S(EL_MINS)": {
+        "S(EL_5)": {
             "key": "EL_6",
-            "label": "6",
+            "label": "%",
         }
-        "S(EL_EGRV)": {
+        "S(EL_6)": {
             "key": "EL_7",
-            "label": "7",
+            "label": "^",
         }
-        "S(EL_UNDS)": {
+        "S(EL_7)": {
             "key": "EL_8",
-            "label": "8",
+            "label": "&",
         }
-        "S(EL_CCED)": {
+        "S(EL_8)": {
             "key": "EL_9",
-            "label": "9",
+            "label": "*",
         }
-        "S(EL_AGRV)": {
+        "S(EL_9)": {
             "key": "EL_0",
-            "label": "0",
+            "label": "#",
         }
-        "S(EL_RPRN)": {
+        "S(EL_0)": {
             "key": "EL_DEG",
-            "label": "°",
+            "label": "@",
+        }
+        "S(EL_SLHS)": {
+            "key": "EL_PLUS",
+            "label": "_",
         }
         "S(EL_EQL)": {
-            "key": "EL_PLUS",
-            "label": "+",
-        }
-        "S(EL_CIRC)": {
             "key": "EL_DIAE",
-            "label": "¨ (dead)",
+            "label": "+",
         }
         "S(EL_DLR)": {
             "key": "EL_PND",
@@ -301,6 +301,10 @@
         "S(EL_EXLM)": {
             "key": "EL_SECT",
             "label": "§",
+        }
+        "S(KC_SPC)": {
+            "key": "BP_NBSP",
+            "label": "(non-breaking space)",
         }
 /* AltGr symbols
  * ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐
